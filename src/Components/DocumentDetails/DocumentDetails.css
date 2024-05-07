@@ -1,0 +1,7 @@
+.documentdetailsContainer{
+    margin-left: 8.85%;
+    margin-right: 8.85%;
+    /* border: 2px solid black; */
+    display:  flex;
+    flex-wrap: wrap;
+}
